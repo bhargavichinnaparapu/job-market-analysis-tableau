@@ -20,8 +20,10 @@ The dashboard is designed with recruiter-friendly KPIs, interactive filters, and
 ---
 
 ## 🔍 Key Analysis & Insights
-- Analyzed **1.35M+ job postings** across **1,000+ cities** and **90K+ companies** using SQL and Tableau to identify global hiring trends.
-- Identified **onsite roles accounting for ~70%** of total job demand.
+
+
+- Analyzed 1.35M+ job postings across 1,000+ cities and 90K+ companies using SQL and Tableau to identify global hiring trends.
+- Identified onsite roles accounting for ~70% of total job demand.
 - Discovered high-demand job roles, top hiring cities, and leading hiring companies.
 - Observed job posting activity patterns and role-wise demand distribution.
 
@@ -53,10 +55,11 @@ The dashboard is designed with recruiter-friendly KPIs, interactive filters, and
 ---
 
 ## 📂 Project Structure
-```text
-job-market-analysis-tableau/
-│
-├── dashboard_demo.gif                           # Dashboard demo GIF
-├── dashboard_screenshot.png                     # Dashboard preview image
-├── Job_Market_Analysis_Dashboard_Tableau.twbx   # Tableau packaged workbook
-└── README.md                                    # Project documentation
+
+🔹 Files
+
+- Job_Market_Analysis_Dashboard_Tableau.twbx – Tableau packaged workbook
+
+- dashboard_screenshot.png – Dashboard preview
+
+- dashboard_demo.gif – Dashboard interaction demo
