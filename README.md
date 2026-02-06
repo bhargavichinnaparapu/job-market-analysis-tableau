@@ -57,7 +57,7 @@ The dashboard is designed with recruiter-friendly KPIs, interactive filters, and
 
 # Project Structure
 
-🔹 Files
+# Files
 
 - Job_Market_Analysis_Dashboard_Tableau.twbx – Tableau packaged workbook
 
